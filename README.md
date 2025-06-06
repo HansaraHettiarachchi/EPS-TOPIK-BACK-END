@@ -1,5 +1,3 @@
-:
-
 🏆 EPS-TOPIK Korean Language Exam Simulation
 🔹 A powerful Spring Boot-backed exam simulator to master the EPS-TOPIK test!
 
